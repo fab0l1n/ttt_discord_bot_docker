@@ -1,5 +1,5 @@
 # ttt_discord_bot_docker
-dockerized TTT_Discord_Bot (https://github.com/marceltransier/ttt_discord_bot)
+Dockerized TTT_Discord_Bot (https://github.com/marceltransier/ttt_discord_bot)
 This is just the nodejs part; you will have to copy files to your garrysmod/addons folder and update server.cfg.
 #### Note: Due to some issues the Steam Workshop item is not working atm, so you will have to copy the addon files manually (-> see Setup)
 
