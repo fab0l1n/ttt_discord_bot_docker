@@ -11,7 +11,7 @@ docker create
   -e VBOT_GUILD=<YOUR_GUILD_ID> 
   -e VBOT_CHANNEL=<YOUR_CHANNEL_ID>
   -p 37405:37405 \
-  ttt_discord_bot
+  fab0l1n/ttt_discord_bot
 ```
 
 ## Requirements
